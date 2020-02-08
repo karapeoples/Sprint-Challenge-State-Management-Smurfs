@@ -10,7 +10,7 @@ const App = ()=> {
   
     return (
       <div className="App">
-        <Alert color="dark"><h1>SMURFS! 2.0 W/ Redux</h1></Alert>
+        <h1 className='header'>SMURFS! 2.0 W/ Redux</h1>
         <Post />
         <Call />
       </div>

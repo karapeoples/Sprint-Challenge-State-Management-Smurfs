@@ -29,7 +29,7 @@ const Post = () => {
 				<br />
 				<Input type="text" name="height" placeholder="Height" onChange={handleChanges} />
 				<br />
-				<Button color='info'>Add Smurf</Button>
+				<Button color='primary'>Add Smurf</Button>
 			</Form>
 		
 	);
